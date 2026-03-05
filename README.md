@@ -2,7 +2,7 @@ hey, i'm raina.
 
 # i build things fast and fix them after
 
-shipped [bottlr](https://bottlr.tech) in 48 hours at SF Hacks — a real-time campus recycling pickup network.  
+shipped [bottlr](https://bottlr.tech) in 48 hours at SF Hacks — a real-time recycling pickup network.  
 won SFU Innovation & Emerging Tech and Future of Work Ventures: Best Hack.
 
 *if i can't explain the product in one sentence, i treat that as a bug.*
